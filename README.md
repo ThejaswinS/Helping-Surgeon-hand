@@ -6,8 +6,4 @@ Surgeon's Helping Hand consists of three components. The first is a Leap Motion 
 
 Sample Movements Video: https://drive.google.com/open?id=1T6oB8Am38j_3UkCnKjlaCSqlbTjsqMdl
 
-## Run Instructions: 
 
-Download repo leapjs at https://github.com/leapmotion/leapjs </br>
-Download Leap Motion SDK from https://developer.leapmotion.com/get-started (Orion Beta) </br>
-Run Sample2.0.html for data display </br>
